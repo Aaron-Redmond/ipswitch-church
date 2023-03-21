@@ -75,12 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Who we are</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>The Potter’s House Christian Fellowship is a Christian Pentecostal church organisation founded by Pastor Wayman Mitchell in Prescott, Arizona in 1970. The official organisation title is Christian Fellowship Ministries or CFM. We are a Pentecostal bible-based fellowship of 3100 churches in 115 nations throughout the world! The name comes from an Old Testament verse of the Bible:Jeremiah 18:2 Arise, and go down to the potter’s house, and there I will cause thee to hear my words.
+		</p>
+		
 	</div>
 </section>
 

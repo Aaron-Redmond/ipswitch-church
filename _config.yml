@@ -9,9 +9,9 @@ author:
 street_address: 75 Brisbane Street 
 city: Ipswich
 state: QLD
-zip_code: 55555
+zip_code: 
 country: Australia
-phone: (716) 555-5555
+phone: 0423710491
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

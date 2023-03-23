@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Potter House Church Ipswitch '
+landing-title: 'Potter House Church Ipswich '
 description: 'Where God is Changing Lives'
 image: null
 author: null
